@@ -1,7 +1,3 @@
--- Engineer: Daniyal Naeem.
--- The following code refers to the test bench of an n-bit register with a load/hold control,
--- in order to verify its correct functionality.
-
 library IEEE;	-- Defining the libraries to be used.
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_ARITH.ALL;

@@ -1,8 +1,3 @@
---------------------------------------------------------------------------------
--- Engineer: Tobi Adebari
--- Source code for the n-bit logic unit.
---------------------------------------------------------------------------------
-
 -- Saying what librarys are being used
  library IEEE;  
  use IEEE.STD_LOGIC_1164.ALL;  

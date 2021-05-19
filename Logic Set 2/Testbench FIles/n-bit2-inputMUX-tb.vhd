@@ -1,6 +1,3 @@
--- Engineer: Daniyal Naeem
--- The following code is the test bench code of an n-bit 2-input MUX.
-
 library ieee;  	-- Defining library to use.
 use ieee.std_logic_1164.all;  
  

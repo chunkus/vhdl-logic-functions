@@ -1,7 +1,3 @@
---------------------------------------------------------------------------------
--- Engineer: Tobi Adebari
--- Dependencies:	not1.vhd
---------------------------------------------------------------------------------
 -- Saying what librarys are being used
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;

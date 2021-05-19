@@ -1,6 +1,3 @@
--- Engineer: Daniyal Naeem
--- Following is the source code for a 4-bit Adder/Subtractor.
-
 library IEEE;	-- Defining the library to be used.
 use IEEE.STD_LOGIC_1164.ALL;
 

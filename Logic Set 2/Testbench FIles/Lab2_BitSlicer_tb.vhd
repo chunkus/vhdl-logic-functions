@@ -1,6 +1,3 @@
--- Engineer: Youssef Akil
--- The following code represents the test bench code of the 1-bit logic function bit-slice.
-
  LIBRARY ieee;  	-- Defining the library to be used.
  USE ieee.std_logic_1164.all;  
  

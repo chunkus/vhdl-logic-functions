@@ -1,9 +1,3 @@
---------------------------------------------------------------------------------
--- Engineer: Tobi Adebari
---------------------------------------------------------------------------------
-
--- Following is the test bench code for the n-bit twisted ring counter.
-
 LIBRARY ieee;	-- Saying what librarys are being used
 USE ieee.std_logic_1164.ALL;
 

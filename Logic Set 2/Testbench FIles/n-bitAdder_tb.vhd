@@ -1,6 +1,3 @@
--- Engineer: Luca Santarelli
--- The following vhdl code is the test bench code for the n-bitAdder.vhd source code.
-
 library IEEE;
 use ieee.std_logic_1164.all;	-- Including standard IEEE library.
 

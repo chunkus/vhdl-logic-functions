@@ -1,6 +1,3 @@
--- Engineer: Daniyal Naeem
--- Following is the test bench code for a 4-bit Adder/Subtractor.
-
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;

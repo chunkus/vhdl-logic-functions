@@ -1,6 +1,3 @@
--- Engineer: Luca Santarelli
--- The following code is the test bench code for an n-bit register.
-
 library ieee;	-- Defining the library to be used.
 use ieee.std_logic_1164.all;
 

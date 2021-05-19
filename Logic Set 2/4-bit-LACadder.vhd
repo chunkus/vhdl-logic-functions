@@ -1,6 +1,3 @@
--- Engineer: Luca Santarelli
--- Following is the source code for the 4-bit LAC adder.
-
 library IEEE;						-- Defining the library to be used.
 use ieee.std_logic_1164.all;
 entity LAC4bitAdd is

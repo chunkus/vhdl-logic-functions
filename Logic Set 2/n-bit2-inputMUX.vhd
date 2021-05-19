@@ -1,6 +1,3 @@
--- Engineer: Daniyal Naeem
--- The following code is the source code of an n-bit 2-input MUX.
-
 library IEEE;  		-- Defining the library to be used.
 use IEEE.STD_LOGIC_1164.ALL;  
  

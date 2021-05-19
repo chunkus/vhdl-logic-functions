@@ -1,14 +1,3 @@
--- Company: Queen Mary University
--- Engineer: Youssef Akil
--- Date created: January 22nd, 2018
--- Design name: lab1_or3_input
--- Module Name: lab1_or3_input_tb.vhd
--- Project name: Lab 1 DSD
-
--- Design goal: 
--- being able to verify the functionality of our three input OR gate design
--- created with the module lab1_or3_input.vhd.
-
 library IEEE;				-- Including the standard library IEEE.
 use IEEE.std_logic_1164.all;
 

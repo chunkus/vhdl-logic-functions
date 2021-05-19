@@ -1,9 +1,3 @@
---------------------------------------------------------------------------------
--- Engineer: Tobi Adebari
---------------------------------------------------------------------------------
-
--- Source code for the n-bit twisted ring counter.
-
 -- Saying what librarys are being used
 library ieee;   
 use ieee.std_logic_1164.all;

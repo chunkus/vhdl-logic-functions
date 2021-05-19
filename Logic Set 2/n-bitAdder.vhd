@@ -1,7 +1,3 @@
--- Engineer: Luca Santarelli
--- The following vhdl code is referred to an n-bit adder, by using as a component, the 
--- entity 'fulladder' used in LAB 1.
-
 library IEEE;
 use ieee.std_logic_1164.all;	-- Including standard IEEE library.
 

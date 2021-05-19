@@ -1,11 +1,3 @@
--- Company : Queen Mary University 
--- Engineer : Aditya Ajaykumar
--- Date : 14 February 2019
--- Module : lab3_nbitregloadholdcontroltristatetest
---project : Lab3_DSD_nbitregloadholdcontroltristatetest
-
--- Following code is the test bench code for an n-bit register with load/hold control and tri state enable output.
-
 LIBRARY ieee;  -- Defining the library to be used with the code.
  USE ieee.std_logic_1164.ALL;  
  

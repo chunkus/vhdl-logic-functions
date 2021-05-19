@@ -1,5 +1,3 @@
--- Engineer: Daniyal Naeem.
-
 library IEEE;
 use IEEE.std_logic_1164.all;		-- Stating the library to be used.
 

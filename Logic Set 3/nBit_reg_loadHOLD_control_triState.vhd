@@ -1,11 +1,3 @@
--- Company : Queen Mary University 
--- Engineer : Aditya Ajaykumar
--- Date : 14 February 2019
--- Module : lab3_nbitregloadholdcontroltristate
---project : Lab3_DSD_nbitregloadholdcontroltristate
-
--- The following code is for the n-bit register with load/hold control and tri state enable output.
-
 library IEEE;  -- Defining the library to be used for the code.
 use IEEE.STD_LOGIC_1164.ALL;  
 

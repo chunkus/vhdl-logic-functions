@@ -1,6 +1,3 @@
--- Engineer: Daniyal Naeem
--- Following is the source code for an n-bit register with a load/hold control.
-
 library IEEE;	-- Defining the libraries to be used.
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_ARITH.ALL;

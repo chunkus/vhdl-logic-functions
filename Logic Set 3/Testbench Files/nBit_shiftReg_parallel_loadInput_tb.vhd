@@ -1,11 +1,3 @@
--- Company : Queen Mary University 
--- Engineer : Aditya Ajaykumar
--- Date : 14 February 2019
--- Module : lab3_shiftregister_tb
---project : Lab3_DSD_shiftregister_tb
-
--- The following code is the test bench code of the n-bit shift register with parallel load input.
-
 library ieee;	-- Defining the library to be used.
 use ieee.std_logic_1164.all;
 

@@ -1,9 +1,3 @@
---------------------------------------------------------------------------------
--- Engineer: Tobi Adebari
--- The following code is Test Bench code for testing the source code of a 4-bit Arithmetic
--- Unit.
---------------------------------------------------------------------------------
-
 -- Saying what librarys are being used
  library ieee;  
  use ieee.std_logic_1164.all;  

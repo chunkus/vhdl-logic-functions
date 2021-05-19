@@ -1,9 +1,3 @@
---------------------------------------------------------------------------------
--- Engineer: Tobi Adebari
---------------------------------------------------------------------------------
-
--- Test bench code for the n-bit universal shift register.
-
 -- Saying what librarys are being used
 library IEEE;		
 use ieee.std_logic_1164.all;

@@ -1,11 +1,3 @@
--- Company : Queen Mary University 
--- Engineer : Aditya Ajaykumar
--- Date : 14 February 2019
--- Module : lab3_nbitshiftregparallelload
---project : Lab3_DSD_nbitshiftregparallelload
-
--- The following code belongs to the n-bit shift register with parallel load input device.
-
 library IEEE;  	-- Declaring the library to be used in the code.
 use IEEE.STD_LOGIC_1164.ALL;  
  

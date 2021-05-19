@@ -1,5 +1,3 @@
---Engineer Name: Daniyal Naeem
-
 library IEEE;
 Use IEEE.std_logic_1164.all;
 

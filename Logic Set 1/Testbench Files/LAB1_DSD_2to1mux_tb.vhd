@@ -1,9 +1,3 @@
--- Company : Queen Mary University 
--- Engineer : Aditya Ajaykumar
--- Date : 23 January 2019
--- Module : lab1_2to1mux
---project : Lab1_DSD
-
 library ieee;	-- Import std_logic from the IEEE library
 use IEEE.STD_LOGIC_1164.ALL;
 

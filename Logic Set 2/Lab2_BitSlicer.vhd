@@ -1,6 +1,3 @@
--- Engineer: Youssef Akil
--- The following code represents the source code of the 1-bit logic function bit-slice.
-
 library IEEE;  	-- Defining the library to be used.
 use ieee.std_logic_1164.all;  
  

@@ -1,9 +1,3 @@
---------------------------------------------------------------------------------
--- Engineer: Tobi Adebari
---------------------------------------------------------------------------------
-
--- The following source code is for the n-bit universal shift register.
-
 library ieee;   -- Defining the library to be used.
 use ieee.std_logic_1164.all;
 

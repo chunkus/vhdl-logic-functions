@@ -1,7 +1,3 @@
--- Engineer: Luca Santarelli
--- The following code represents the Test Bench of the source code of the 4bitLACadder.vhd
--- file.
-
 library IEEE;		-- Defining the library to be used.
 use ieee.std_logic_1164.all;
 

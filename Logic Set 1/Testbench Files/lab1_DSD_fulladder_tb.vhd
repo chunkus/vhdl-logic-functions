@@ -1,9 +1,3 @@
--- Company : Queen Mary University 
--- Engineer : Aditya Ajaykumar
--- Date : 23 January 2019
--- Module : lab1_fulladder
---project : Lab_1 DSD
-
 LIBRARY ieee;	-- Import std_logic from the IEEE library
 USE IEEE.STD_LOGIC_1164.ALL;
 

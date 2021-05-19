@@ -1,10 +1,4 @@
--- Company : Queen Mary University 
--- Engineer : Aditya Ajaykumar
--- Date : 23 January 2019
--- Module : lab1_2to1_mux
---project : Lab1_DSD
-
-library IEEE; 
+ibrary IEEE; 
 use IEEE.STD_LOGIC_1164.ALL;     --Including the standard library IEEE.
 
 

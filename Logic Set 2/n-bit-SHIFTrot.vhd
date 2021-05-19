@@ -1,7 +1,3 @@
--- Engineer: Luca Santarelli
--- The following code is the source code related to an n-bit shifter/rotator which in this
--- case has a default size of 4, as stated by the lab 2 sheet.
-
 library IEEE;  		-- Defining the library to use.
 use IEEE.STD_LOGIC_1164.ALL;
  

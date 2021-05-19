@@ -1,6 +1,3 @@
--- Engineer: Daniyal Naeem.
--- The following code is the source code for an n-bit tri state buffer.
-
 library IEEE;	-- Declaring libraries to be used.
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_ARITH.ALL;

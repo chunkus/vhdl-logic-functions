@@ -1,7 +1,3 @@
--- Engineer: Youssef Yasser Anwar Mohamed Abdelghafour Akil
-
--- Following is the code for a 4-bit Linear Feedback Shift Register.
-
 library IEEE;  -- Including the standard library IEEE.
  use IEEE.STD_LOGIC_1164.ALL;  
  entity fourbitlinear_feedback_shiftreg is  

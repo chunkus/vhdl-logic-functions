@@ -1,8 +1,3 @@
- --------------------------------------------------------------------------------
--- Engineer: Tobi Adebari
--- Test bench code to verify functionality of the n-bit logic unit.
---------------------------------------------------------------------------------
-
 -- Saying what librarys are being used
  LIBRARY ieee;  
  USE ieee.std_logic_1164.ALL;

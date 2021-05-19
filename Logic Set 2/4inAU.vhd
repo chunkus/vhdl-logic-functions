@@ -1,8 +1,3 @@
---------------------------------------------------------------------------------
--- Engineer: Tobi Adebari
--- Following is the source code for a 4-bit Arithmetic Unit.
---------------------------------------------------------------------------------
-
 -- Saying what librarys are being used
 library IEEE;  
  use IEEE.STD_LOGIC_1164.ALL;  

@@ -1,12 +1,3 @@
--- Company: Queen Mary University
--- Engineer: Luca Santarelli
--- Date created: January 22nd, 2018
--- Module Name: lab1_half_adder - half_adder_arch
--- Project name: Lab 1 DSD
-
--- Design goal: 
--- being able to design a fully functional half adder.
-
 library IEEE;
 use IEEE.std_logic_1164.all;	-- Including the standard library IEEE.
 

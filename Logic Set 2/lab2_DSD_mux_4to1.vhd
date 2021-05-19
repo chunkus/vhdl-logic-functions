@@ -1,10 +1,3 @@
--- Company : Queen Mary University 
--- Engineer : Aditya Ajaykumar
--- Date : 7 February 2019
--- Module : lab2_mux_4to1
---project : Lab2_DSD
-
-
 library IEEE;		-- Defining the library to be used.
 use IEEE.std_logic_1164.all;
 

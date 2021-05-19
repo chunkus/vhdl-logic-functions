@@ -1,7 +1,3 @@
--- Engineer: Daniyal Naeem.
--- The following code is the test bench code to verify the functionality of the n-bit tri 
--- state buffer.
-
 LIBRARY ieee;	-- Defining the libraries to be used.
 USE ieee.std_logic_1164.ALL;
 USE ieee.std_logic_unsigned.all;

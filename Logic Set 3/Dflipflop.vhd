@@ -1,7 +1,3 @@
--- Engineer: Luca Santarelli
--- The following code is the source code for a D-flip-flop with an asynchronous reset 
--- and preset.
-
 library ieee;		-- Defining the library to be used.
 use ieee.std_logic_1164.all;
 

@@ -1,9 +1,3 @@
--- Company : Queen Mary University 
--- Engineer : Aditya Ajaykumar
--- Date : 7 February 2019
--- Module : lab2_Shift_Control_tb
---project : Lab2_DSD
-
 LIBRARY ieee;		-- Defining the libraries to be used in the test bench.
 USE ieee.std_logic_1164.ALL;
 USE ieee.std_logic_unsigned.all;

@@ -1,7 +1,3 @@
--- Engineer: Luca Santarelli
--- Following is the code for the test bench of the previous n-bit shifter/rotator vhd source
--- code file.
-
 library IEEE;  -- Defining the library to use.
 use IEEE.STD_LOGIC_1164.ALL;  
 
