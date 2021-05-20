@@ -1,7 +1,3 @@
--- Engineer: Luca Santarelli
-
--- Following is the source code for the 512 x 8-bit SRAM
-
 LIBRARY ieee;	-- Including libraries to be used.
 USE ieee.std_logic_1164.ALL;
 USE ieee.std_logic_arith.ALL;

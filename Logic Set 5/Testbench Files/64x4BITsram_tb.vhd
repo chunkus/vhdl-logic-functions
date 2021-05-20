@@ -1,11 +1,3 @@
--- Company : Queen Mary University 
--- Engineer : Aditya Ajaykumar
--- Date : 06 March 2019
--- Module : lab5_64x4sramtb
---project : Lab5_DSD_64x4sramtb
-
--- Test bench code for the 64 x 4-bit Static RAM.
-
 LIBRARY ieee;	-- Including necessary libraries.
 USE ieee.std_logic_1164.ALL;
 USE ieee.std_logic_arith.ALL;

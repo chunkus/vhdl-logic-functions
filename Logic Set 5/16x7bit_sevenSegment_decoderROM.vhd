@@ -1,7 +1,3 @@
--- Engineer: Daniyal Naeem
-
--- Source code for the 16 x 7 bit seven segment decoder ROM.
-
 library IEEE;	-- Including libraries to be used.
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_ARITH.ALL;

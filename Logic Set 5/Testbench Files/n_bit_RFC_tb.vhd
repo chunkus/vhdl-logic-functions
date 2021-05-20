@@ -1,7 +1,3 @@
--- Engineer: Luca Santarelli
-
--- Test bench code for a Register File Cell (RFC).
-
 library ieee;	-- Including library to be used.
 use ieee.std_logic_1164.all;
 

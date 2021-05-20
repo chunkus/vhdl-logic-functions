@@ -1,7 +1,3 @@
--- Engineer: Luca Santarelli
-
--- Source code for the 512 x 32-bit SRAM.
-
 -- Including libraries to be used.
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;

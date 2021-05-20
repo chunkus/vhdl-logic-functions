@@ -1,7 +1,3 @@
--- Engineer: Youssef Akil
-
--- Source code for a Time Division Multiplex display circuit.
-
 library IEEE;  -- Including library to be used.
 use IEEE.STD_LOGIC_1164.ALL;  
 

@@ -1,11 +1,3 @@
--- Company : Queen Mary University 
--- Engineer : Aditya Ajaykumar
--- Date : 06 March 2019
--- Module : lab5_64x4sram
---project : Lab5_DSD_64x4sram
-
--- Source code for 64 x 4-bit Static RAM.
-
  library IEEE;  -- Including library to be used.
  use IEEE.STD_LOGIC_1164.ALL;  
  use IEEE.STD_LOGIC_ARITH.ALL;  

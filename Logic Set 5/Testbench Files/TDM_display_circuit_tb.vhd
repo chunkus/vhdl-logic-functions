@@ -1,7 +1,3 @@
--- Engineer: Youssef Akil
-
---Source code: Test bench for TDM
-
 LIBRARY ieee;	-- Including library to be used.
 USE ieee.std_logic_1164.ALL;
  

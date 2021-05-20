@@ -1,7 +1,3 @@
--- Engineer: Luca Santarelli
-
--- Source code for an n-bit Register File Cell (RFC).
-
 library ieee;	-- Including library to be used.
 use ieee.std_logic_1164.all;
 

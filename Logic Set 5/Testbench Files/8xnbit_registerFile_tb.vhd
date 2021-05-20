@@ -1,7 +1,3 @@
--- Engineer: Daniyal Naeem
-
--- Test bench code for an 8 x n-bit Register File.
-
 library IEEE;	-- Including the libraries to be used.
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_ARITH.ALL;
