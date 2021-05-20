@@ -1,6 +1,3 @@
---------------------------------------------------------------------------------
--- Engineer: Tobi Adebari
------------------------------------------------------
 -- Saying what librarys are being used
 library ieee;	-- Defining the library to be used.
 use ieee.std_logic_1164.all;

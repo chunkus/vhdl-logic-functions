@@ -1,7 +1,3 @@
--- Engineer: Youssef Akil
-
--- This source code is the test bench for the n-bitincrementer
- 
  library ieee;  -- Including library.
  use ieee.std_logic_1164.ALL;  
  

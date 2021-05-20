@@ -1,8 +1,3 @@
- -- Engineer: Youssef Akil 
-
--- Following is the source code of the n-bit incrementer
--- main source code.
-
  library IEEE;  -- Defining the library to be used for the code.
  use IEEE.STD_LOGIC_1164.ALL;   
  

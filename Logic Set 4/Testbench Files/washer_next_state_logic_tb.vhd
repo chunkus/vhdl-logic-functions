@@ -1,7 +1,3 @@
--- Engineer: Luca Santarelli
-
--- The following code is the test bench code for the next state logic of the washer.
-
 library ieee;	-- Defining the library to be used.
 use ieee.std_logic_1164.all;
 

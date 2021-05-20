@@ -1,6 +1,3 @@
--- Engineer: Daniyal Naeem.
--- Source code for an 8-bit comparator.
-
 library IEEE;	-- Libraries to be used.
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_ARITH.ALL;

@@ -1,8 +1,3 @@
--- Engineer: Luca Santarelli
-
--- The following source code belongs to the washing machine next state device of the washer controller 
--- main source code.
-
 library ieee;	-- Including the library to be used for the code.
 use ieee.std_logic_1164.all;
 

@@ -1,6 +1,3 @@
--- Engineer: Youssef Akil
---This is the test bench for the n-bit synchronous counter with parallel load.
- 
  library ieee;  -- Including library to be used.
  use ieee.std_logic_1164.ALL;  
  

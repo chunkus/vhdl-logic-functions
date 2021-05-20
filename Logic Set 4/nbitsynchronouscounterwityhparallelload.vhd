@@ -1,6 +1,3 @@
--- Engineer: Youssef Akil
--- The following code is the source code for the n-bit synchronous counter with parallel load.
-
 library ieee;	-- Defining the library to be used.
 use ieee.std_logic_1164.all; 
 

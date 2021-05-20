@@ -1,6 +1,3 @@
--- Engineer: Daniyal Naeem.
--- Test bench code for a 4-bit synchronous up/down counter.
-
 library IEEE;	-- Libraries to be used.
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_ARITH.ALL;

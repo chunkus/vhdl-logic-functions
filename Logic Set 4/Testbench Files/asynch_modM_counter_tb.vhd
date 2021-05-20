@@ -1,11 +1,3 @@
--- Company : Queen Mary University 
--- Engineer : Aditya Ajaykumar
--- Date : 26 February 2019
--- Module : lab4_counterasyncresettb
--- project : Lab4_DSD_countersayncresettb
-
--- Test bench code for an 8-bit modulo-m counter with asynchronous reset.
-
 library ieee; 	-- Including library to be used.
 use ieee.std_logic_1164.all;
 

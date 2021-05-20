@@ -1,11 +1,3 @@
--- Company : Queen Mary University 
--- Engineer : Aditya Ajaykumar
--- Date : 26 February 2019
--- Module : lab4_countersyncreset
--- project : Lab4_DSD_countersyncreset
-
--- Source code for an 8-bit modulo-m counter with synchronous reset.
-
  library IEEE;  
  use IEEE.STD_LOGIC_1164.ALL;  --including the IEEE library
 

@@ -1,8 +1,3 @@
--- Engineer: Luca Santarelli
-
--- Following is the source code of the washing machine output logic device of the washer controller 
--- main source code.
-
 library ieee;	-- Defining the library to be used for the code.
 use ieee.std_logic_1164.all;
 
